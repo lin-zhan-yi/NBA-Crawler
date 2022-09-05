@@ -1,4 +1,4 @@
-# NBA-gui
+# NBA-Crawler
 ## 專案說明
 讓大家能看到nba的球員比賽數據
 ## 使用方法
